@@ -1,2 +1,2 @@
 # My Personal Profile using Gatsby
-Visit the website [here](https://www.ugoel.me).
+Visit the website [here](http://www.ugoel.me).
