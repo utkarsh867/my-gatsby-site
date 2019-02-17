@@ -88,8 +88,8 @@ module.exports = {
                         development of technology. The club holds events such as workshops and talks on topics like web
                         development, electronics and IoT hardware development, and publishes articles related to similar
                         topics.`,
-                        image: `RCTech.png`,
-                        action: `https://rcltech.github.io/`
+			image: `RcTech-phoenix-logo.png`,
+                        action: `https://www.rctech.club/`
                     }
                 ]
             },
@@ -107,8 +107,8 @@ module.exports = {
                         head: `Student/Staff Project Fund`,
                         subhead: `Project fund of HK$5000`,
                         description: `Student/Staff Project fund by R.C. Lee Hall for RC Tech.`,
-                        image: `RCTech.png`,
-                        action: `none`
+                        image: `RcTech-phoenix-logo.png`,
+                        action: `https://www.rctech.club/`
                     }
                 ]
             }
